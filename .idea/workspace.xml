@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c22617cf-ee37-4586-8a3e-fda774f4013c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1719758424">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="7" />
+          <entry key="out" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="PLAIN_TEXT" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="33" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+              <folding>
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="method#initConsoleUI#0;class#Main#0" />
+                <element signature="method#initVisitorUI#0;class#Main#0" />
+                <element signature="method#initAdminUI#0;class#Main#0" />
+                <element signature="method#initStandartCinemaData#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cinema/comparators/MovieNameComparator.java" />
+        <option value="$PROJECT_DIR$/src/cinema/comparators/MovieSessionDateComparator.java" />
+        <option value="$PROJECT_DIR$/src/enums/Month.java" />
+        <option value="$PROJECT_DIR$/src/cinema/people/visitor_functionality/VisitorViewer.java" />
+        <option value="$PROJECT_DIR$/src/comparators/VisitorNameComparator.java" />
+        <option value="$PROJECT_DIR$/src/comparators/MovieSessionDateComparator.java" />
+        <option value="$PROJECT_DIR$/src/cinema/Cinema.java" />
+        <option value="$PROJECT_DIR$/src/cinema/structure/CinemaHall.java" />
+        <option value="$PROJECT_DIR$/src/cinema/sessions/Movie.java" />
+        <option value="$PROJECT_DIR$/src/cinema/sessions/MovieSession.java" />
+        <option value="$PROJECT_DIR$/adb.out" />
+        <option value="$PROJECT_DIR$/src/database/DataBase.java" />
+        <option value="$PROJECT_DIR$/src/database/AdminDataBase.java" />
+        <option value="$PROJECT_DIR$/src/generators/MovieSessionGenerator.java" />
+        <option value="$PROJECT_DIR$/src/database/VisitorDataBase.java" />
+        <option value="$PROJECT_DIR$/src/cinema/people/Administrator.java" />
+        <option value="$PROJECT_DIR$/src/cinema/people/Visitor.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cinema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cinema" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cinema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cinema" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571472219084" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="cinema" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c22617cf-ee37-4586-8a3e-fda774f4013c" name="Default" comment="" />
+      <created>1569948564377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569948564377</updated>
+      <workItem from="1569948568116" duration="14453000" />
+      <workItem from="1570033874826" duration="6528000" />
+      <workItem from="1570092473372" duration="4997000" />
+      <workItem from="1570098847808" duration="3378000" />
+      <workItem from="1570126032426" duration="6682000" />
+      <workItem from="1570181561308" duration="11347000" />
+      <workItem from="1570295861853" duration="6041000" />
+      <workItem from="1570707937851" duration="11649000" />
+      <workItem from="1570793470702" duration="4575000" />
+      <workItem from="1570820169825" duration="6286000" />
+      <workItem from="1570874844092" duration="5315000" />
+      <workItem from="1570906560809" duration="9170000" />
+      <workItem from="1571469903342" duration="2453000" />
+      <workItem from="1571498906035" duration="10540000" />
+      <workItem from="1571582616989" duration="1038000" />
+      <workItem from="1571588302422" duration="5303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="109755000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32943678" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32943678" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44208288" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18229167" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.445271" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>visitorDataBase</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>movies[randIndex]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="161" column="44" selection-start-line="161" selection-start-column="44" selection-end-line="161" selection-end-column="44" />
+          <folding>
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="method#initConsoleUI#0;class#Main#0" />
+            <element signature="method#initVisitorUI#0;class#Main#0" />
+            <element signature="method#initAdminUI#0;class#Main#0" />
+            <element signature="method#initStandartCinemaData#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/VisitorDataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="method#getInstance#0;class#VisitorDataBase#0" />
+            <element signature="method#save#0;class#VisitorDataBase#0" />
+            <element signature="method#serialize#0;class#VisitorDataBase#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cinema/people/Administrator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="71" column="24" lean-forward="true" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+          <folding>
+            <element signature="method#addCinema#0;class#Administrator#0" />
+            <element signature="method#deleteCinema#0;class#Administrator#0" />
+            <element signature="method#addMovieSession#0;class#Administrator#0" />
+            <element signature="method#deleteMovieSession#0;class#Administrator#0" />
+            <element signature="method#viewAllVisitorsWithTickets#0;class#Administrator#0" />
+            <element signature="method#deleteVisitorMovieSession#0;class#Administrator#0" />
+            <element signature="method#serialize#0;class#Administrator#0" />
+            <element signature="method#deserialize#0;class#Administrator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="40" lean-forward="true" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+          <folding>
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="method#initConsoleUI#0;class#Main#0" />
+            <element signature="method#initVisitorUI#0;class#Main#0" />
+            <element signature="method#initAdminUI#0;class#Main#0" />
+            <element signature="method#initStandartCinemaData#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3162">
+          <caret line="186" column="25" lean-forward="true" selection-start-line="186" selection-start-column="25" selection-end-line="186" selection-end-column="25" />
+          <folding>
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="method#initConsoleUI#0;class#Main#0" />
+            <element signature="method#initVisitorUI#0;class#Main#0" />
+            <element signature="method#initAdminUI#0;class#Main#0" />
+            <element signature="method#initStandartCinemaData#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cinema/people/visitor_functionality/VisitorViewer.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/HashMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/comparators/MovieSessionDateComparator.java" />
+    <entry file="file://$PROJECT_DIR$/visitor.txt" />
+    <entry file="file://$PROJECT_DIR$/src/cinema/sessions/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cinema/sessions/MovieSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.obj" />
+    <entry file="file://$PROJECT_DIR$/visitor.obj" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/io/ObjectStreamClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/database/DataBase.java" />
+    <entry file="file://$PROJECT_DIR$/adb.out" />
+    <entry file="file://$PROJECT_DIR$/src/database/AdminDataBase.java" />
+    <entry file="file://$PROJECT_DIR$/cinema.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/VisitorDataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="method#getInstance#0;class#VisitorDataBase#0" />
+            <element signature="method#save#0;class#VisitorDataBase#0" />
+            <element signature="method#serialize#0;class#VisitorDataBase#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cinema/people/Administrator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="36" column="8" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+          <folding>
+            <element signature="method#addCinema#0;class#Administrator#0" />
+            <element signature="method#deleteCinema#0;class#Administrator#0" />
+            <element signature="method#addMovieSession#0;class#Administrator#0" />
+            <element signature="method#deleteMovieSession#0;class#Administrator#0" />
+            <element signature="method#viewAllVisitorsWithTickets#0;class#Administrator#0" />
+            <element signature="method#deleteVisitorMovieSession#0;class#Administrator#0" />
+            <element signature="method#serialize#0;class#Administrator#0" />
+            <element signature="method#deserialize#0;class#Administrator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cinema/people/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="196" column="28" selection-start-line="196" selection-start-column="28" selection-end-line="196" selection-end-column="28" />
+          <folding>
+            <element signature="method#lookupAllCinemas#0;class#Visitor#0" />
+            <element signature="method#lookupAllMovies#0;class#Visitor#0" />
+            <element signature="method#lookupAllMovieSessions#0;class#Visitor#0" />
+            <element signature="method#lookupMovieSessionsByMovie#0;class#Visitor#0" />
+            <element signature="method#lookupCinemasByMovie#0;class#Visitor#0" />
+            <element signature="method#buyTicket#0;class#Visitor#0" />
+            <element signature="method#viewAllTickets#0;class#Visitor#0" />
+            <element signature="method#checkBalance#0;class#Visitor#0" />
+            <element signature="method#equals#0;class#Visitor#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generators/MovieSessionGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="method#generateMovieSessionMap#0;class#MovieSessionGenerator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cinema/structure/CinemaHall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="36" column="56" lean-forward="true" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cinema/Cinema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vdb.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comparators/VisitorNameComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comparators/MovieNameComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/Month.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+          <folding>
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="method#initConsoleUI#0;class#Main#0" />
+            <element signature="method#initVisitorUI#0;class#Main#0" />
+            <element signature="method#initAdminUI#0;class#Main#0" />
+            <element signature="method#initStandartCinemaData#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
